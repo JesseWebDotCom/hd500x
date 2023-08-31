@@ -1,0 +1,1 @@
+Here you will find the factory bundles, set lists, and presets that come included with each firmware version. While you can always install the firmware yourself, open HD Edit, and export what you want, I have already done that for you for ease of use (ex. quickly being able to restore the one set list you messed up).
