@@ -4,6 +4,7 @@ Welcome to the one-stop shop / mega-repo of tips, tricks, bundles, set lists, pr
 
 ## What is the HD500X?
 ![Line 6 POD HD500X Guitar Multi-effects Floor Processor](/assets/PODHD500X-large.jpg "Line 6 POD HD500X Guitar Multi-effects Floor Processor")
+
 The HD500X is an amazing device that enables guitarists to get the sound and effects they've alwaays wanted but in a single floor processor (say goodbye to all those Franken-pedals). With the click of a button, you can switch between sounding like Metallica, Stevie Ray Vaughn, Korn, John Mayer, and more. At $500, this device is a real bargain.
 
 ### What year is this? Are people still using the HD500X?
@@ -16,7 +17,7 @@ Hell yeah they are! When compared to the Helix series at over 3X the cost, the H
 | -- | -- |
 | [Community](/Community/README.md) | Presets created by the community |
 | [Factory](/Factory/README.md) | Bundles, set lists, and presets included with the factory firmware |
-| [Help](/Help/README.md) | Tips, tricks, and support |
+| [Help](/Help/) | Tips, tricks, and support |
 | [Personal](/Personal/README.md) | My personally created presets organized [by band](/Personal/By%20Band/) and [by style](/Personal/By%20Style/). I've even included [a blank bundle, set lists, and presets](/Personal/Blank/) to easily delete/reset exactly what you want. |
 
 ## Don't forget
